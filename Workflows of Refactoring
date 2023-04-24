@@ -1,0 +1,17 @@
+1. People are not utilising Refactoring as many ways they could
+2. Most of time people are talking about Refactoreing for cycle of red -> green -> refactor with respect to TDD
+3. Suppose I want to add one Functionality so that's why first I will add failing test and in the starting it will fail and after that I will write production code and make it pass and after that I will refactor my production code to make it more clean , readable and simple and good design code.
+4. When you Refactoring then you should have test which you are running regularly so while Refactoring if you will do any mistake so these test suite will prevent you.
+5. You are working in different mode of programming like
+- Writing test mode
+- adding feature mode means writing production mode
+- Refactoring code mode
+- you should work on one mode at a time, suppose while Refactoring if you found a bug then switch to adding feature mode fix it and after that come back to Refactoring mode.
+6. Others moded are Performance mode where you are focused on making your code Faster instead of make it clear so be consiuance in which mode you are and focus on one mode at a time.
+7. Refactoring means you are creating good and clean and Simple design without changing the behaviour of code.
+8. When you are refactoring then always think like
+- I will not change the behaviour of code
+- I will take small small steps to refactor code
+- And I will run test after every change of refactoring
+- If I make mistakes then I will undo the code that I have did if test fails due to my change and after that I will try another design code
+9. This is one of the workflow of refactoring which is nothing but TDD Refactoring and this is the most common workflow of Refactoring where you are following Red -> Green -> Refactor cycle
