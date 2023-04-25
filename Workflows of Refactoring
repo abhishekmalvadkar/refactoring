@@ -15,3 +15,11 @@
 - And I will run test after every change of refactoring
 - If I make mistakes then I will undo the code that I have did if test fails due to my change and after that I will try another design code
 9. This is one of the workflow of refactoring which is nothing but TDD Refactoring and this is the most common workflow of Refactoring where you are following Red -> Green -> Refactor cycle
+10. Let's look at the other potential cases
+11. Sometimes you are reading some existing code and you feel that awww this is bad code (Yuk) , it is doing this thing in in efficient way and after sometime you realize that the author of that code is you.
+12. In my younger days we heard that if code is working then don't change/touch it and if you touch it then it might break.
+13. Refactoring mindset says when you see something yucky you actually should go and fix it , you should be like I see a mess so I immediately need to do something to make it cleaner or clear, 
+14. It seems fine before 2 months when you or someone written it but now you realize it's not looking fine that's why need to make it clean
+15. I think this is very oportunuctics way of refactoring
+16. Sometimes this is called as little pickup Refactoring here you you cleaning up existing things which are writing by you or someone else while reading existing codebase
+17. Sometimes this type of Refactoring is expressed as Boys Scoute rule which is "Always leave something cleaner than it was before"
