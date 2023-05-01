@@ -36,3 +36,32 @@
 - and if you can't refactor that yucky code right now because it can take more efforts which might me impact your current task so what you should do is write a note that I need to refactor this yucky code after finishing my current task so after finishing your current adding feature task go and refactor that code and do some cleanup.
 26. It is so important that you should treat Refactoring as an integral part of your regular work, as soon as Refactoring become separate task then it becomes a big discussion and big arguments that how it should be done.
 27. That's why make sure that you will do appropriate amount of Refactoring during your regular work
+28. Another trigger for Refactoring is suppose you have Design the system or solution for a particular change request and after somedays you realise that It could be done in better way by just slightly changing the design and that is also case of refactoring and it is called as prepatorry Refactoring.
+29. Lots of people complaining that Refactoring will slows you down to develiver your actual requirements.
+30. Refactoring will give benifits in future as well sometimes in middle of your current task.
+31. It will make you faster to change something in code in future or now if your follow continues Refactoring.
+32. We have talked about 3 workflows of Refactoring followed by : 
+- Litter picker Refactoring
+- Comprehension Refactoring
+- prepatorry Refactoring
+33. I think people are not using these techniques much more but they should
+34. But the teams are using another technique most which is planned Refactoring means they are having plans and Jiras to Refactore something - this is not recommended
+35. Good team should do hardly planned refactoring and perfect team should not never do planned Refactoring.
+36. Planned Refactoring is not recommended.
+37. Because perfect teams are doing refactoring along with development or regular work.
+38. The problem with planned Refactoring is that, it is always a excercise to justify that We are doing Refactoring and that's why I will try to avoid it, I will try to do little bit Refactoring all the time with regular work
+39. Software developers is responsible to keep the code base clean.
+40. Another thing is that you can talk in your meeting that lets set a goal that whenever you do your current task then do some improvements in existing code if you see any yucky code.
+41. People are just considering Refactoring as wasteful rework
+- I am giving importance to refactoring because if you don't pay attention to your design then in future it makes you slows down.
+- but if you pay attention to your design and do Refactoring then it will make you easy to add new functionality or feature.
+- Refactoring is the way to create better design.
+42. Refactoring will give you ability to deliver more functionality more quickly.
+43. The people are talking about Refactoring that why we should do Refactoring is that
+- we want good quality clean code base
+- we are professional
+- we should create good design
+- if you told these reasons to your manager then he will say we will do it later but not now
+44. Instead you should tell your manager only one thing that we should do Refactoring because by doing this we can deliver more functionalities more quickly and that's the only one reason to refactoring.( Economic reason)
+45. Always thing that after Refactoring this code, does will make us faster if yes then do refactor that code but suppose there is code which is not going to touch by anyone means there will be no any change request there and it is working then no need to refactor that code because that code will not make you slows down.
+46. Refactoring should be always economic reason means that if you don't do Refactoring then it will make you slows down and you will deliver less functionality in more time and your customer need to pay more money for same type of task.
