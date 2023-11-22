@@ -4,3 +4,4 @@
 - I have configured my Intelij as when I have created new method then it throws Unsupported operation exception with string like Not Implemented so I can know which is not implemented 👍
 - I like to separate static variable with instance variable by separate line 👍
 - Create constant for number using primitive , so we can get rid of boxing and unboxing kind of things because it's expensive and also get rid of object creation process because it's also expensive 💕
+- Once you thing all good always commit that moment code love 💕
