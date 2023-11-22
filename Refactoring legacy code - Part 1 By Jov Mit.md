@@ -1,1 +1,3 @@
-
+- Always do frequent and small small commits because it has two advantages
+- If your system crash, your code is already committed
+- While refactoring legacy code if you done some mistake so you can easily revert that part only love 💕
