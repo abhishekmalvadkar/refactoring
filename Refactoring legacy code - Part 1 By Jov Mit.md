@@ -9,3 +9,4 @@
 - Always eliminate feature Envy code smell means if the logic is associated with objct state then move that logic inside object class itself , example isActive() so you will have user.isActive() call 💕
 - Another example of feature Envy is isFeatureEnabled()
 - Always highlight variable to see where it is used and if some if and throw are in first line then make variables after that if not used in those ifs , and put variables very close to the code where it is used so we can easily extract that portion as method 🥳
+- when you have if at the starting which return the control only then take help from intelij to invert the if in better shape 💕
