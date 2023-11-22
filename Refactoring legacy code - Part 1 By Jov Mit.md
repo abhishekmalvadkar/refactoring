@@ -6,3 +6,4 @@
 - Create constant for number using primitive , so we can get rid of boxing and unboxing kind of things because it's expensive and also get rid of object creation process because it's also expensive 💕
 - Once you thing all good always commit that moment code love 💕
 - Always use refactoring provided by Intelij because it's safe Refactoring and 99.9 % it's safe but when working with legacy code then give extra care when Refactoring because you don't know what will happen 🤞
+- Always promote feature Envy means if the logic is associated with objct state then move that logic inside object class itself , example isActive() so you will have user.isActive() call 💕
