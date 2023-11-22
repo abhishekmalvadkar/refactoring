@@ -3,3 +3,4 @@
 - While refactoring legacy code if you done some mistake so you can easily revert that part only love 💕
 - I have configured my Intelij as when I have created new method then it throws Unsupported operation exception with string like Not Implemented so I can know which is not implemented 👍
 - I like to separate static variable with instance variable by separate line 👍
+- Create constant for number using primitive 👍
